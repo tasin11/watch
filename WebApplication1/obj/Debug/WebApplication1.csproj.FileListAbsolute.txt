@@ -1,0 +1,189 @@
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc 1601F1\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\PagedList.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\PagedList.Mvc.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\PagedList.xml
+C:\Users\salman\Documents\Visual Studio 2013\Projects\emarketing project\WebApplication1\WebApplication1\bin\PagedList.Mvc.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\PagedList.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\PagedList.Mvc.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\PagedList.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\PagedList.Mvc.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\salman\Desktop\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\PagedList.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\PagedList.Mvc.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\PagedList.xml
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\PagedList.Mvc.xml
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\salman\Desktop\part-5\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\PagedList.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\PagedList.Mvc.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\PagedList.xml
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\PagedList.Mvc.xml
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\salman\Downloads\emarketing project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+E:\WebApplication1\WebApplication1\bin\EntityFramework.dll
+E:\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+E:\WebApplication1\WebApplication1\bin\PagedList.dll
+E:\WebApplication1\WebApplication1\bin\PagedList.Mvc.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\WebApplication1\WebApplication1\bin\WebGrease.dll
+E:\WebApplication1\WebApplication1\bin\EntityFramework.xml
+E:\WebApplication1\WebApplication1\bin\PagedList.xml
+E:\WebApplication1\WebApplication1\bin\PagedList.Mvc.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

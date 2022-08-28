@@ -1,0 +1,183 @@
+﻿@using PagedList.Mvc
+@model  PagedList.IPagedList<WebApplication1.Models.tbl_category>
+
+@{
+    ViewBag.Title = "Main_Page";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<style>
+
+    footer {
+        background-color: black;
+        color: white;
+    }
+
+    .footer-content {
+        width: 90%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 20px;
+        padding: 50px 0;
+    }
+
+    .copyright {
+        width: 100%;
+        background-color: rgb(54, 50, 50);
+        height: 80px;
+        text-align: center;
+        padding-top: 30px;
+    }
+
+.cimg {
+   -webkit-transform 5s;
+   transition:transform 5s;
+   
+}
+
+.cimg:hover {
+   
+    -webkit-transform: rotatez(360deg);
+}
+
+</style>
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View  Category</title>
+    <link href="~/Content/paginition.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div style="height:1150px; ">
+        <div class="row">
+            <div class="col-lg-12" style="height:100px; border:1px solid solid; ">
+
+
+                <img src="~/Content/img/Modern-e-Commerce-Web-Design-Trends.-Part-2.gif" style="width:100%; height:100%" />
+
+
+            </div>
+
+        </div>
+
+
+
+        <div class="row" style="margin-bottom:40px">
+
+            <div class="col-lg-2 col-md-2">
+                <img src="~/Content/img/150_sleep1_600.gif" class="img img-responsive" style="width:100%; height:100%" />
+            </div>
+
+            <div class="col-lg-8 col-md-8">
+                <div class="row">
+                    @if (Model != null)
+                    {
+                        foreach (var item in Model)
+                        {
+                            <div class="col-lg-4 col-md-4" style="height:200px;margin-top:100px">
+
+                                <img class="img img-responsive cimg" src="@Url.Content(item.cat_image)" style=" height:100%;width:100% ;border-radius:50px 50px 50px 50px" />
+                                <h4 style="color:#808080; font-family:'Arial Rounded MT';text-align:center"> @Html.ActionLink(@item.cat_name, "Ads", new { id = @item.cat_id })</h4>
+
+                            </div>
+
+                        }
+                    }
+                </div>
+            </div>
+
+
+            <div class="col-lg-2 col-md-2">
+                <img src="~/Content/img/LOB_val_600.gif" class="img img-responsive" style="width:100%; height:100%" />
+            </div>
+
+
+
+
+
+        </div>
+
+
+    </div>
+
+    <div id="container" style="margin-left: 20px">
+        <p></p>
+        <p></p>
+        <div class="pagination" style="margin-left: 400px">
+            Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)
+            of @Model.PageCount   @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+        </div>
+    </div>
+
+
+
+
+    <footer>
+        <div style="display: flex; justify-content: space-around; font-size: 20px; padding-top: 20px;">
+            <div>
+                <p>Get connected with us on social networks:</p>
+            </div>
+            <div style="display: inline;">
+                <i class="fab fa-facebook-square"></i>
+                <i class="fab fa-twitter"></i>
+                <i class="fab fa-google"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-linkedin"></i>
+                <i class="fab fa-github"></i>
+            </div>
+        </div>
+        <hr>
+        <div class="footer-content">
+            <div>
+                <img src="https://i.ibb.co/w0457Dk/2a6b872e590742f09ed3c347270efee6-3.png" alt="" srcset="">
+                <br><br>
+                <p>Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </div>
+            <div>
+                <h4>Products</h4>
+                <br>
+                <p>Watches</p>
+                <p>Wristbands</p>
+                <p>Accesories</p>
+                <p>Unisex</p>
+            </div>
+            <div>
+                <h4>Useful Links</h4>
+                <br>
+                <p>Products</p>
+                <p>Orders</p>
+                <p>Return Policy</p>
+                <p>Contactn us</p>
+            </div>
+            <div>
+                <h4>CONTACT US</h4>
+                <br>
+                <p> Dhaka, 1203, Dhanmondi</p>
+                <p> info@example.com</p>
+                <p> + 01 234 567 88</p>
+                <p> + 01 234 567 89</p>
+            </div>
+
+        </div>
+        <div class="copyright">
+            <p>© 2022 Copyright: watchifybd.com</p>
+        </div>
+    </footer>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
